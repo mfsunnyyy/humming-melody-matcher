@@ -1,0 +1,11 @@
+# Core Language & DSP Backend
+numpy>=1.24.0
+scipy>=1.10.0
+librosa>=0.10.0
+sounddevice>=0.4.6
+
+# Performance Acceleration & Multithreading
+numba>=0.57.0
+
+# Desktop User Interface Framework
+PyQt5>=5.15.9
