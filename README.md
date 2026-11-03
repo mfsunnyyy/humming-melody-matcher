@@ -40,7 +40,7 @@ Music_Retrieval_System/
 ## **Prerequisites & Environment Setup**
 
 1. **Python Version**: Python 3.11+
-2. **Dependencies**: Install the required Python packages using:
+2. **Dependencies**: Install the required Python packages using :
 
 ```bash
 pip install -r requirements.txt
